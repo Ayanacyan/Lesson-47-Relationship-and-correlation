@@ -23,4 +23,4 @@ plt.show()
 
 sns.scatterplot(data=df, x="gdp_cap", y="life_exp", size="population", hue="continent", sizes=(20,500))
 plt.title("GDP vs Life Expectancy Distribution")
-plt.show()
+plt.show()   
